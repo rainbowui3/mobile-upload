@@ -1,0 +1,62 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "rainbow-mobile-preview@^2.0.0",
+        "scope": null,
+        "escapedName": "rainbow-mobile-preview",
+        "name": "rainbow-mobile-preview",
+        "rawSpec": "^2.0.0",
+        "spec": ">=2.0.0 <3.0.0",
+        "type": "range"
+      },
+      "/Users/tony/Documents/mobile/demo"
+    ]
+  ],
+  "_from": "rainbow-mobile-preview@>=2.0.0 <3.0.0",
+  "_id": "rainbow-mobile-preview@2.0.2",
+  "_inCache": true,
+  "_location": "/rainbow-mobile-preview",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "rainbow-mobile-preview@^2.0.0",
+    "scope": null,
+    "escapedName": "rainbow-mobile-preview",
+    "name": "rainbow-mobile-preview",
+    "rawSpec": "^2.0.0",
+    "spec": ">=2.0.0 <3.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://repo.ebaotech.com:80/artifactory/api/npm/npm-all/rainbow-mobile-preview/-/rainbow-mobile-preview-2.0.2.tgz",
+  "_shasum": "8f848291cd9b0c73e021951e08a1658e0b02e45b",
+  "_shrinkwrap": null,
+  "_spec": "rainbow-mobile-preview@^2.0.0",
+  "_where": "/Users/tony/Documents/mobile/demo",
+  "author": {
+    "name": "RainbowUI Team"
+  },
+  "dependencies": {
+  },
+  "description": "Rainbow Mobile",
+  "devDependencies": {},
+  "dist": {
+    "tarball": "http://repo.ebaotech.com:80/artifactory/api/npm/npm-all/rainbow-mobile-preview/-/rainbow-mobile-preview-2.0.2.tgz",
+    "shasum": "8f848291cd9b0c73e021951e08a1658e0b02e45b"
+  },
+  "keywords": [],
+  "main": "./src/index.js",
+  "name": "rainbow-mobile-upload",
+  "optionalDependencies": {},
+  "publishConfig": {
+    "registry": "http://repo.ebaotech.com/artifactory/api/npm/npm-all"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "https://oss.ebaotech.com/rainbow-mobile/core.git"
+  },
+  "version": "2.0.2"
+}
